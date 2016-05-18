@@ -1,0 +1,42 @@
+/* ALL */
+
+#background{
+	position: absolute;
+	margin: 0;
+}
+
+#navbar{
+	position: absolute;
+
+}
+ul{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    margin-left: 1615px;
+    background-color: #3E7EA8;
+    
+    
+   
+
+    
+}
+li{
+	display: inline-block;
+	border-right: 1px solid #bbb
+	
+}
+
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+}
+li a:hover{
+	background-color: #3EA99F
+}
+
+
+
